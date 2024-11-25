@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+cd build
+rm Tuner
+printf "\n<<<<< Execute CMake >>>>>\n"
+cmake ..
+make
+printf "\n<<<<< Execute file >>>>>\n"
+./Tuner

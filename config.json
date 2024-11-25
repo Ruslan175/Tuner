@@ -1,0 +1,20 @@
+{
+    "Notes": 
+    [
+        {"name": "Do"  , "frequency": 262},
+        {"name": "Do#" , "frequency": 277},
+        {"name": "Re"  , "frequency": 294},
+        {"name": "Mib" , "frequency": 311},
+        {"name": "Mi"  , "frequency": 330},
+        {"name": "Fa"  , "frequency": 349},
+        {"name": "Fa#" , "frequency": 370},
+        {"name": "Sol" , "frequency": 392},
+        {"name": "Sol#", "frequency": 415},
+        {"name": "La"  , "frequency": 440},
+        {"name": "Sib" , "frequency": 466},
+        {"name": "Si"  , "frequency": 494}
+    ],
+
+    "MaxSoundFreq":         18000.0
+}
+
